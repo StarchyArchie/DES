@@ -1,3 +1,5 @@
+This project is a react application which implements the DES encryption algorithm, there is a bug in either the encryption step or decryption step which prevents decrypting an encrypted message.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
